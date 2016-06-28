@@ -1,4 +1,4 @@
-# onScrollIntoView
+# jQuery.onScrollIntoView
 
 A pseudo-event handler for detecting which element of a set of elements is the most in view. This was designed to detect when a user had read a section, so there is a callback which will trigger after a second, to indicate that they've stopped to read the section.
 
